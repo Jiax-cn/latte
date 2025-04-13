@@ -1,0 +1,9 @@
+[submodule "liblatte"]
+	path = liblatte
+	url = git@github.com:Jiax-cn/liblatte.git
+[submodule "wasm-micro-runtime-latte"]
+	path = wasm-micro-runtime-latte
+	url = git@github.com:Jiax-cn/wasm-micro-runtime-latte.git
+[submodule "linux-sgx-latte"]
+	path = linux-sgx-latte
+	url = git@github.com:Jiax-cn/linux-sgx-latte.git
